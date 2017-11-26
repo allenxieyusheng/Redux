@@ -11,7 +11,9 @@ react-native run-ios
 ## 运行结果： 
 ![login](1.png)
 ##最简单的Redux案例，麻雀虽小 ，五脏俱全哦
-``js
+
+
+```js
 
 //导入redux中的创建store方法
 import { createtStore } from 'redux';
@@ -50,4 +52,4 @@ function listener(){
 
 store.subscribe(listener)
 
-``
+```
