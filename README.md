@@ -8,11 +8,9 @@ cd demo
 npm XXX
 react-native run-ios
 ```
-
-## 运行结果： 
-![login](1.png)
-
-
+## 运行结果：
+<img src="1.png" width=256 />
+ 
 #### 最简单的Redux案例，麻雀虽小 ，五脏俱全哦
 
 ```js
