@@ -1,6 +1,7 @@
-#使用说明：
+# 简单Redux状态管理流程
 最近总有人问宝宝关于如何在React native去使用Redux 这里写了个Demo 主要是讲述了这一点   
-#安装说明： 
+### 安装说明： 
+
 ```js
 git clone xxx  
 cd demo 
@@ -10,11 +11,11 @@ react-native run-ios
 
 ## 运行结果： 
 ![login](1.png)
-##最简单的Redux案例，麻雀虽小 ，五脏俱全哦
 
+
+#### 最简单的Redux案例，麻雀虽小 ，五脏俱全哦
 
 ```js
-
 //导入redux中的创建store方法
 import { createtStore } from 'redux';
 
